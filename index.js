@@ -12,4 +12,6 @@ function wrapAdjective(flare = '*') {
   });
 }
 
-const encouragingPromptFunction = wrapAdjective("!!!")("a dedicated programmer");
+// const encouragingPromptFunction = wrapAdjective("!!!")("a dedicated programmer");
+
+// wrapAdjective("~~~")("AWESOME");
